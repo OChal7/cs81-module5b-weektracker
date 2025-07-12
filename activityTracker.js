@@ -12,7 +12,7 @@ const myWeek = [
 /*
 Activity with highest enjoyment will be "dinner with friends"
 Category that will dominate week will be "health"
-More activities at evening becuase daytime is taken up with work
+Evening is most enjoyable time of day
 */
 
 // Total hours spent on health activities
